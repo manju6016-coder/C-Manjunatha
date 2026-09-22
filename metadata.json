@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ledger Recon",
+  "description": "Purchase, Sales, and Bank Deposit tracking module with automated daily reconciliation and Indian currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
